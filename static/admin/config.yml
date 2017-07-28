@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: Riley-/just-testing # Path to your Github repository
+  branch: master # Branch to update
