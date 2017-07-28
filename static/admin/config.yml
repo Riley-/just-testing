@@ -2,6 +2,7 @@ backend:
   name: github
   repo: Riley-/just-testing # Path to your Github repository
   branch: master # Branch to update
-  publish_mode: editorial_workflow
-  media_folder: "static/uploads"
+
+publish_mode: editorial_workflow
+media_folder: "static/uploads"
 
